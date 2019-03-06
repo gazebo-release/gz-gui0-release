@@ -59,12 +59,12 @@ Depends: libtinyxml2-dev,
          qml-module-qt-labs-folderlistmodel,
          qml-module-qt-labs-settings,
          libignition-cmake1-dev,
-	 libignition-math5-dev,º
+	 libignition-math5-dev,
 	 libignition-common2-dev,
 	 libignition-transport5-dev,
 	 libignition-rendering0-ogre1-dev,
 	 libignition-tools-dev,
-	 libignition-msgs2-dev
+	 libignition-msgs2-dev,
          libignition-gui0 (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
